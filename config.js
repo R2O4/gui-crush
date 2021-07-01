@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Phạm Nguyên Vũ Ơi!',
+    introTitle: 'Trần Quang Huân  Ơi!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh cầm dầu ăn qua chơi em .',
+    messDesc: 'Tối nay 10h anh cầm dầu ăn qua chơi em .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.messenger.com/t/R2O4.com.vn/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
